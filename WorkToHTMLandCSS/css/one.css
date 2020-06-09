@@ -54,3 +54,29 @@ h2{
 .red {
 	color: #ff0000;
 }
+
+
+
+.headerStyle{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	font-weight: 900;
+	color: indigo;
+	text-align: center;
+	text-shadow: rgba(183, 23, 197, 0.486);
+	font-size: large;
+}
+h1{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	font-weight: 900;
+	color: indigo;
+	text-align: center;
+	text-shadow: rgba(183, 23, 197, 0.486);
+}
+.FooterStyle{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	font-weight: 900;
+	color: maroon;
+}
